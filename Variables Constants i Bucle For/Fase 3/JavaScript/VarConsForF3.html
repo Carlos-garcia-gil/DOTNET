@@ -1,0 +1,32 @@
+<script>
+    var birthYear = 1973;
+
+    const leap = 4;
+
+    var isLeapYear;
+    var messageOut1 = "is Leap year";
+    var messageOut2 = "isn't Leap year"; ;
+    var messageOut = "";
+
+    for (var year = 1948; year < birthYear+1; year++)
+    {
+        if(year%leap == 0)
+        {
+            isLeapYear = true;
+        }
+        else
+        {
+            isLeapYear = false;
+        }
+
+        if (isLeapYear) 
+        {
+            messageOut += year + " " + messageOut1 + "\n";
+        }
+        else
+        {
+            messageOut += year + " " + messageOut2 + "\n";
+        }
+   }
+   alert(messageOut);
+</script>

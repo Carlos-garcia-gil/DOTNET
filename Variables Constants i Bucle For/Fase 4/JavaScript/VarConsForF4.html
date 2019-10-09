@@ -1,0 +1,26 @@
+<script>
+
+    var name = "Carlos";
+    var firstSurname = "Garcia";
+    var lastSurname = "Gil";
+
+    var birthDay = 22;
+    var birthMonth = 10;
+    var birthYear = 1973;
+
+    const leap = 4;
+
+    var myName = "My name is " + name + " " + firstSurname + " " + lastSurname;
+    var myBirth = "I was born " + birthDay + "/" + birthMonth + "/" + birthYear;
+    var myBirthYear = " ";
+
+    if (birthYear % leap == 0)
+    {
+        myBirthYear = "My year of birth is leap";
+    }
+    else
+    {
+        myBirthYear = "My year of birth isn't leap";       
+    }
+    alert(myName + "\n" + myBirth+ "\n" + myBirthYear);
+</script>
