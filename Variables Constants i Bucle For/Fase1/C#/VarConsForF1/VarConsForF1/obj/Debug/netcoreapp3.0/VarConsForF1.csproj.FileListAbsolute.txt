@@ -1,0 +1,11 @@
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\bin\Debug\netcoreapp3.0\VarConsForF1.exe
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\bin\Debug\netcoreapp3.0\VarConsForF1.deps.json
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\bin\Debug\netcoreapp3.0\VarConsForF1.runtimeconfig.json
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\bin\Debug\netcoreapp3.0\VarConsForF1.runtimeconfig.dev.json
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\bin\Debug\netcoreapp3.0\VarConsForF1.dll
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\bin\Debug\netcoreapp3.0\VarConsForF1.pdb
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\obj\Debug\netcoreapp3.0\VarConsForF1.csprojAssemblyReference.cache
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\obj\Debug\netcoreapp3.0\VarConsForF1.AssemblyInfoInputs.cache
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\obj\Debug\netcoreapp3.0\VarConsForF1.AssemblyInfo.cs
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\obj\Debug\netcoreapp3.0\VarConsForF1.dll
+C:\Users\pccity\source\repos\VarConsForF1\VarConsForF1\obj\Debug\netcoreapp3.0\VarConsForF1.pdb
