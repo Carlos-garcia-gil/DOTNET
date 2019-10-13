@@ -1,0 +1,11 @@
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\obj\Debug\netcoreapp3.0\LletRepF2.csprojAssemblyReference.cache
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\obj\Debug\netcoreapp3.0\LletRepF2.AssemblyInfoInputs.cache
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\obj\Debug\netcoreapp3.0\LletRepF2.AssemblyInfo.cs
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\bin\Debug\netcoreapp3.0\LletRepF2.exe
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\bin\Debug\netcoreapp3.0\LletRepF2.deps.json
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\bin\Debug\netcoreapp3.0\LletRepF2.runtimeconfig.json
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\bin\Debug\netcoreapp3.0\LletRepF2.runtimeconfig.dev.json
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\bin\Debug\netcoreapp3.0\LletRepF2.dll
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\bin\Debug\netcoreapp3.0\LletRepF2.pdb
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\obj\Debug\netcoreapp3.0\LletRepF2.dll
+C:\Users\pccity\Documents\DOTNET\Lletres Repetides\Fase 2\C#\LletRepF2\LletRepF2\obj\Debug\netcoreapp3.0\LletRepF2.pdb

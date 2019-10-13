@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LletRepF3", "LletRepF3\LletRepF3.csproj", "{9EE0BA0C-2F06-4053-8A80-287BAA8D4F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE0BA0C-2F06-4053-8A80-287BAA8D4F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE0BA0C-2F06-4053-8A80-287BAA8D4F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE0BA0C-2F06-4053-8A80-287BAA8D4F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE0BA0C-2F06-4053-8A80-287BAA8D4F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F64F78-E78F-456E-AD4C-12D86C5CEB89}
+	EndGlobalSection
+EndGlobal

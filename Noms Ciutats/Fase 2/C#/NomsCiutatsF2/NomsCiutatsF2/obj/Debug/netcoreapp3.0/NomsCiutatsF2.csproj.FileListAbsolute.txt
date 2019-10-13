@@ -1,0 +1,11 @@
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\bin\Debug\netcoreapp3.0\NomsCiutatsF2.exe
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\bin\Debug\netcoreapp3.0\NomsCiutatsF2.deps.json
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\bin\Debug\netcoreapp3.0\NomsCiutatsF2.runtimeconfig.json
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\bin\Debug\netcoreapp3.0\NomsCiutatsF2.runtimeconfig.dev.json
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\bin\Debug\netcoreapp3.0\NomsCiutatsF2.dll
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\bin\Debug\netcoreapp3.0\NomsCiutatsF2.pdb
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\obj\Debug\netcoreapp3.0\NomsCiutatsF2.AssemblyInfoInputs.cache
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\obj\Debug\netcoreapp3.0\NomsCiutatsF2.AssemblyInfo.cs
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\obj\Debug\netcoreapp3.0\NomsCiutatsF2.dll
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\obj\Debug\netcoreapp3.0\NomsCiutatsF2.pdb
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 2\C#\NomsCiutatsF2\NomsCiutatsF2\obj\Debug\netcoreapp3.0\NomsCiutatsF2.csprojAssemblyReference.cache
