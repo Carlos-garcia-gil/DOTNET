@@ -10,7 +10,7 @@ namespace LletRepF2
             var name = "Carlos";
             var nameList = new List<char>();
 
-            for (int i = 0; i < name.Length; i++)
+            for (var i = 0; i < name.Length; i++)
             {
                 nameList.Add(Convert.ToChar(name.Substring(i,1)));
             }

@@ -14,7 +14,7 @@ namespace NomsCiutatsF3
             var city6 = "";
             const int numCities = 6;
 
-            for (int i = 0; i < numCities; i++)
+            for (var i = 0; i < numCities; i++)
             {
                 Console.Write($"Name city num.{i + 1}: ");
                 var stringInput = Console.ReadLine();
@@ -45,7 +45,7 @@ namespace NomsCiutatsF3
             var arrayCities = new string[] { city1, city2, city3, city4, city5, city6 };
             var arrayCitiesModifies = new string[numCities];
 
-            for (int i = 0; i < numCities; i++)
+            for (var i = 0; i < numCities; i++)
             {
                 arrayCitiesModifies[i] = arrayCities[i].Replace('a', '4');
             }

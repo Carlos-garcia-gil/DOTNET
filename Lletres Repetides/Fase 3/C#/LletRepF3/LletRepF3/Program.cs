@@ -11,7 +11,7 @@ namespace LletRepF3
             var nameList = new List<char>();
             var nameDictionary = new Dictionary<char, int>(); 
 
-            for (int i = 0; i < name.Length; i++)
+            for (var i = 0; i < name.Length; i++)
             {
                 nameList.Add(char.ToLower(Convert.ToChar(name.Substring(i, 1))));
             }

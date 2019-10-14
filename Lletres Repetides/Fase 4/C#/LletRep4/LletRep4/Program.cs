@@ -13,7 +13,7 @@ namespace LletRep4
             var surnameList = new List<char>();
             var fullNameList = new List<char>();
 
-            for (int i = 0; i < name.Length; i++)
+            for (var i = 0; i < name.Length; i++)
             {
                 nameList.Add(Convert.ToChar(name.Substring(i, 1)));
             }

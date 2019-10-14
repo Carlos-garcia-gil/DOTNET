@@ -14,7 +14,7 @@ namespace NomsCiutatsF4
             var city6 = "";
             const int numCities = 6;
 
-            for (int i = 0; i < numCities; i++)
+            for (var i = 0; i < numCities; i++)
             {
                 Console.Write($"Name city num.{i + 1}: ");
                 var stringInput = Console.ReadLine();
@@ -80,7 +80,7 @@ namespace NomsCiutatsF4
             // porque el enunciado indicaba que rellenaramos el array letra por letra.
             //arrayChar = city.ToCharArray();
 
-            for (int i = 0; i < city.Length; i++)
+            for (var i = 0; i < city.Length; i++)
             {
                 arrayChar[i] = char.Parse(city.Substring(i, 1));     
             }

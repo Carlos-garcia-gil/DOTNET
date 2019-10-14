@@ -14,7 +14,7 @@ namespace NomsCiutatsF2
             var city6 = "";
             const int numCities = 6;
 
-            for (int i = 0; i < numCities; i++)
+            for (var i = 0; i < numCities; i++)
             {
                 Console.Write($"Name city num.{i + 1}: ");
                 var stringInput = Console.ReadLine();

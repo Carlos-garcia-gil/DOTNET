@@ -7,7 +7,7 @@ namespace LletRepF1
         static void Main(string[] args)
         {
             var name = "Carlos";
-            char[] nameArray = new char[name.Length];
+            var nameArray = new char[name.Length];
             nameArray = name.ToCharArray();
 
             foreach (var item in nameArray)
