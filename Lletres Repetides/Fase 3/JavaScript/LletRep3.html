@@ -1,0 +1,29 @@
+<script>
+    var myName = "carlosCRSs";
+    var myNameList = [];
+    var myNameDictionary = new Map();
+    var txtOutput = "";
+    
+    for (var i = 0; i < myName.length; i++)
+    {
+        myNameList.push(myName.substring(i, i+1).toLowerCase());
+    }
+
+    for (i in myNameList)
+    {
+        if (myNameDictionary.has(myNameList[i]))
+        {
+            myNameDictionary.set(myNameList[i],myNameDictionary.get(myNameList[i])+1);
+        }
+        else
+        {
+            myNameDictionary.set(myNameList[i],1);
+        }
+    }
+
+    for([myKey, myValue] of myNameDictionary)
+    {
+        txtOutput += "Key: " + myKey + " Value: " + myValue + "\n";
+    }
+    alert(txtOutput);
+</script>

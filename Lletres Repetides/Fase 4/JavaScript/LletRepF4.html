@@ -1,0 +1,27 @@
+<script>
+    var myName = "carlos";
+    var mySurname = "garcia";
+    var myNameList = [];
+    var mySurnameList = [];
+    var fullNameList = [];
+
+    var txtOutput = "";
+    
+    for (var i = 0; i < myName.length; i++)
+    {
+        myNameList.push(myName.substring(i, i+1));
+    }
+
+    for (var i = 0; i < mySurname.length; i++)
+    {
+        mySurnameList.push(mySurname.substring(i, i+1));
+    }
+
+    fullNameList = myNameList.concat([" "],mySurnameList);
+
+    for(i in fullNameList)
+    {
+        txtOutput += fullNameList[i];
+    }
+    alert(txtOutput);
+</script>

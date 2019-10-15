@@ -1,13 +1,11 @@
 <script>
-    var name = "Carlos";
-    var nameArray = Array.from(name);
+    var myName = "Carlos";
+    var myNameArray = Array.from(myName);
     var txtOutput = "";
    
-    nameArray.forEach(LoopNameArray);
+    for(i in myNameArray)
+    {
+      txtOutput += "Letter: " + myNameArray[i] + "\n";
+    };
     alert(txtOutput);
-    
-function LoopNameArray(value, index, array) 
-{
-  txtOutput += "Letter: " + value + "\n";
-}        
 </script>

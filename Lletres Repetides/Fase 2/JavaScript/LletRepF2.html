@@ -1,0 +1,36 @@
+<script>
+    var myName = "Carlos";
+    var myNameList = [];
+    var txtOutput = "";
+
+    for (var i = 0; i < myName.length; i++)
+    {
+        myNameList.push(myName.substring(i,i+1));
+    }
+   
+    for (i in myNameList)
+    {
+        txtOutput += "Letter: " + myNameList[i] + " ";
+        switch (myNameList[i].toLowerCase())
+        {
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
+                txtOutput += "is VOCAL" + "\n";
+                break;
+            default:
+                if (isNaN(myNameList[i]))
+                {
+                    txtOutput += "is CONSONANT" + "\n";
+                }
+                else
+                {
+                    txtOutput += "People names don't contain numbers!" + "\n";  
+                }    
+                break;
+        }        
+    }
+    alert(txtOutput);
+</script>

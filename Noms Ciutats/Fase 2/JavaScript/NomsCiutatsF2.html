@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Entry 6 cities: </h3>
+    <h4>Name city 1:  
+    <input id="idCity1" type="text" /></br></h4>    
+    <h4>Name city 2:  
+    <input id="idCity2" type="text" /></br></h4>        
+    <h4>Name city 3:  
+    <input id="idCity3" type="text" /></br></h4>    
+    <h4>Name city 4:  
+    <input id="idCity4" type="text" /></br></h4>    
+    <h4>Name city 5:  
+    <input id="idCity5" type="text" /></br></h4>    
+    <h4>Name city 6:  
+    <input id="idCity6" type="text" /></br></h4>    
+    <input type="button" value="Accept" onclick="EntryCities()" /> 
+</body>
+</html>
+
+<script>
+function EntryCities()
+{
+    var city1 = document.getElementById("idCity1").value;
+    var city2 = document.getElementById("idCity2").value;
+    var city3 = document.getElementById("idCity3").value;
+    var city4 = document.getElementById("idCity4").value;
+    var city5 = document.getElementById("idCity5").value;
+    var city6 = document.getElementById("idCity6").value;
+    
+    const numCities = 6;
+
+    var arrayCities = [city1, city2, city3, city4, city5, city6];
+    arrayCities.sort();
+
+    var txtOutput = "The cities sorted are the next:\n";
+    
+    for (var i = 0; i < numCities; i++)
+    {
+            txtOutput += arrayCities[i] + "\n";
+    }
+    alert(txtOutput);    
+}
+</script>

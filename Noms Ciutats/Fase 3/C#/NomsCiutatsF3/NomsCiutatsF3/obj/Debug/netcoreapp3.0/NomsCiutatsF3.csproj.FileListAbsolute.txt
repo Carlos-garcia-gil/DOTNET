@@ -8,3 +8,4 @@ C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 3\C#\NomsCiutatsF3\NomsCiutat
 C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 3\C#\NomsCiutatsF3\NomsCiutatsF3\obj\Debug\netcoreapp3.0\NomsCiutatsF3.AssemblyInfo.cs
 C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 3\C#\NomsCiutatsF3\NomsCiutatsF3\obj\Debug\netcoreapp3.0\NomsCiutatsF3.dll
 C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 3\C#\NomsCiutatsF3\NomsCiutatsF3\obj\Debug\netcoreapp3.0\NomsCiutatsF3.pdb
+C:\Users\pccity\Documents\DOTNET\Noms Ciutats\Fase 3\C#\NomsCiutatsF3\NomsCiutatsF3\obj\Debug\netcoreapp3.0\NomsCiutatsF3.csprojAssemblyReference.cache
